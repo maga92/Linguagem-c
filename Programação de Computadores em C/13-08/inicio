@@ -1,0 +1,20 @@
+//
+//
+#include <stdio.h>
+ int main ()
+ {
+
+
+
+ }
+
+/*
+ 
+
+
+3. Crie uma matriz 3x3 e exiba a diagonal principal.
+
+
+4. Crie uma matriz 3x3 de inteiros e conte quantos números pares ela possui.
+
+*/
